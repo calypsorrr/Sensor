@@ -1,2 +1,2 @@
 # Sensor
-Hier vind u de lib en de code voor de sensor 
+Hier vind u de code van de sensor  
