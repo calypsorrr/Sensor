@@ -1,2 +1,2 @@
 # Sensor
-Dit is mijn Repo voor de 2 sensors
+Hier vind u de lib en de code voor de sensor 
