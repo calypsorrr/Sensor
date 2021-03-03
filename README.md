@@ -1,2 +1,2 @@
 # Sensor
-Dit is mijn Repo voor de 2 sensors
+Dit is mijn visualisering van de sensor A02YYUW Waterproof Ultrasonic Sensor SKU: SEN0311
